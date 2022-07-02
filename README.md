@@ -10,14 +10,6 @@
 
 ---
 
-## :small_blue_diamond: Índice 
-
-* [Sobre](#-sobre-o-projeto)
-* [Descrição do Projeto](#descrição-do-Projeto)
-* [Funcionalidades](#-funcionalidades)
-* [Acesso ao Projeto](#-acesso-ao-projeto)
-* [Tecnologias utilizadas](#-tecnologias-utilizadas)
-* [Autor](#-autor)
 
 ## 💻 Descrição do projeto
 
@@ -69,15 +61,23 @@ acesse a pasta e execute o arquivo **.bat**
 
 ---
 
-## 🦸 Autor
+## Autores
 
 <a href="https://github.com/verasdan">
  <img style="border-radius: 50%;" src="https://media.discordapp.net/attachments/891798888594436199/980284436954357780/perfil_dan.jpg?width=406&height=406" width="100px;" alt="foto"/>
  <br />
- <sub><b>Dan Veras</b></sub></a> <a href="https://github.com/verasdan" title="">🚀</a>
+ <sub><b>Dan Veras</b></sub></a> <a href="https://github.com/veras-dan" title="">🚀</a>
  <br />
 
-  [![Twitter Badge](https://img.shields.io/badge/-@veras_dan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/veras_dan)](https://twitter.com/veras_dan) [![Linkedin Badge](https://img.shields.io/badge/-Danilo_Veras-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/verasdanilo/)](https://www.linkedin.com/in/verasdanilo/) 
-  [![Hotmail Badge](https://img.shields.io/badge/-veras_dan@hotmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:veras_dan@hotmail.com)](mailto:veras_dan@hotmail.com)
-
 ---
+
+  [![Twitter Badge](https://img.shields.io/badge/-@veras_dan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/veras_dan)](https://twitter.com/veras_dan) [![Linkedin Badge](https://img.shields.io/badge/-Danilo_Veras-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/verasdanilo/)](https://www.linkedin.com/in/verasdanilo/) 
+  [![Gmail Badge](https://img.shields.io/badge/-dveras1623@gmail.com-FF3333?style=flat-square&logo=gmail&logoColor=white&link=mailto:dveras1623@gmail.com)](mailto:dveras1623@gmail.com)
+
+## Suporte
+
+Para suporte, mande um email para dveras1623@gmail.com.
+
+## 📝 Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
